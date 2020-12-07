@@ -1,5 +1,3 @@
-from typing import List
-
 import re
 
 input = open('7.in').read().split('\n')
