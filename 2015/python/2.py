@@ -2,7 +2,7 @@
 
 import math
 
-I=open(../'2.txt').read()
+I=open('../2.txt').read()
 
 # Part 1.
 def paper(box):

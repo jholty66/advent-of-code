@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-input=open('5.in').read().split("\n")
+input=open('../5.txt').read().split("\n")
 
 def part(lst,dir):
     if dir in ('F','L'):

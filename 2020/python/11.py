@@ -4,7 +4,7 @@ def printm(m):
         print(r)
     print()
 
-pi = open('11.sample.txt').read().split('\n')
+pi = open('../11.sample.txt').read().split('\n')
 pi = [[c for c in s] for s in pi]
 g = pi.copy()
 printm(g)

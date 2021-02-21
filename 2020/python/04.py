@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # Split passports by newline.
-I=open('4.in').read().split('\n\n')
+I=open('../4.txt').read().split('\n\n')
 
 # Make all feilds be split by space. Create a list for each passport
 # where each file is a string.

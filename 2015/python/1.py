@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-I=open(../'1.txt').read()
+I=open('../1.txt').read()
 
 # Part 1.
 print(sum([1 if x=="(" else -1 for x in I]))

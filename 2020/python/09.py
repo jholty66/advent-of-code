@@ -1,4 +1,4 @@
-pi = open('9.txt').read().split('\n')[:-1] # Last character is a newline.
+pi = open('../9.txt').read().split('\n')[:-1] # Last character is a newline.
 pi = list(map(lambda x: int(x), pi))
 
 # Part 1.

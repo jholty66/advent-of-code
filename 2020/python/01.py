@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # Part 1.
-I=open("1.in").read().split("\n")
+I=open('../1.txt').read().split("\n")
 I=[int(x) for x in I]
 
 for i in range(len(I)):

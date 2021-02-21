@@ -1,4 +1,4 @@
-pi = open('8.in').read().split('\n')
+pi = open('../8.txt').read().split('\n')
 
 instructions = []
 for i in range(len(pi)):
