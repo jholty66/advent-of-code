@@ -1,4 +1,4 @@
-pi = open('../10.txt').read().split('\n')
+pi = open('../010.txt').read().split('\n')
 pi = list(map(lambda x: int(x), pi))
 
 # Part 1.

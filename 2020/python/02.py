@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-I=open('../2.txt').read().split("\n")
+I=open('../02.txt').read().split("\n")
 I=[l.split(" ") for l in I]
 
 for password in I:

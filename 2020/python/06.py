@@ -1,4 +1,4 @@
-input = open('../6.txt').read().split('\n\n')
+input = open('../06.txt').read().split('\n\n')
 input = list(map(lambda group: group.split('\n'), input))
 
 # Part 1.
