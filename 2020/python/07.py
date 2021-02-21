@@ -1,6 +1,6 @@
 import re
 
-input = open('../7.txt').read().split('\n')
+input = open('../07.txt').read().split('\n')
 
 # Part 1.
 def lr(rule: str) -> list[str, list[str]]:

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-I=open('../3.txt').read()
+I=open('../03.txt').read()
 x=y=0
 
 def move_santa(s):

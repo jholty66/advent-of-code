@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.8
 
-I=open('../3.txt').read().split("\n")
+I=open('../03.txt').read().split("\n")
 
 # Part 1.
 def findTrees(right,down):
